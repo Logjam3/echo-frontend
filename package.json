@@ -15,8 +15,9 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21"
   },
-  "devDependencies": {
-    "@types/react": "^18.0.37",
-"@types/node": "^20.4.2"
-  }
+"devDependencies": {
+  "typescript": "^5.3.3",
+  "@types/react": "^18.2.15",
+  "@types/node": "^20.10.5"
+}
 }
