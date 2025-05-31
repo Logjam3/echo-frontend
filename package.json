@@ -16,7 +16,7 @@
     "postcss": "^8.4.21"
   },
   "devDependencies": {
-    "eslint": "8.45.0",
-    "eslint-config-next": "13.4.7"
+    "@types/react": "^18.0.37",
+"@types/node": "^20.4.2"
   }
 }
